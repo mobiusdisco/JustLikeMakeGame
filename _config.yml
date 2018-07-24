@@ -5,3 +5,5 @@ description:        "please help"
 locale:             en_US
 baseurl: "/index" # the subpath of your site, e.g. /blog
 url: "mobiusdisco.github.io" # the base hostname & protocol for your site
+
+theme: jekyll-theme-minimal
