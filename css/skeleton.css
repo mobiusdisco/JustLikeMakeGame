@@ -158,9 +158,9 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #1EAEDB; }
+  color: #E1E1E1; }
 a:hover {
-  color: #0FA0CE; }
+  color: #E1E1E1; }
 
 
 /* Buttons
@@ -206,8 +206,8 @@ input[type="submit"].button-primary,
 input[type="reset"].button-primary,
 input[type="button"].button-primary {
   color: #FFF;
-  background-color: #33C3F0;
-  border-color: #33C3F0; }
+  background-color: #E1E1E1;
+  border-color: #E1E1E1; }
 .button.button-primary:hover,
 button.button-primary:hover,
 input[type="submit"].button-primary:hover,
@@ -236,8 +236,8 @@ textarea,
 select {
   height: 38px;
   padding: 6px 10px; /* The 6px vertically centers text on FF, ignored by Webkit */
-  background-color: #fff;
-  border: 1px solid #fff;
+  background-color: #E1E1E1;
+  border: 1px solid #E1E1E1;
   border-radius: 4px;
   box-shadow: none;
   box-sizing: border-box; }
@@ -266,7 +266,7 @@ input[type="url"]:focus,
 input[type="password"]:focus,
 textarea:focus,
 select:focus {
-  border: 1px solid #33C3F0;
+  border: 1px solid #E1E1E1;
   outline: 0; }
 label,
 legend {
@@ -311,8 +311,8 @@ code {
   margin: 0 .2rem;
   font-size: 90%;
   white-space: nowrap;
-  background: #2e2525;
-  border: 1px solid #2e2525;
+  background: #E1E1E1;
+  border: 1px solid #E1E1E1;
   border-radius: 4px; }
 pre > code {
   display: block;
@@ -326,7 +326,7 @@ th,
 td {
   padding: 12px 15px;
   text-align: left;
-  border-bottom: 1px solid #2e2525; }
+  border-bottom: 1px solid #E1E1E1; }
 th:first-child,
 td:first-child {
   padding-left: 0; }
@@ -377,7 +377,7 @@ hr {
   margin-top: 3rem;
   margin-bottom: 3.5rem;
   border-width: 0;
-  border-top: 1px solid #2e2525; }
+  border-top: 1px solid #E1E1E1; }
 
 
 /* Clearing
