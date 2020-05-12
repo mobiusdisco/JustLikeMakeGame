@@ -15,7 +15,8 @@
 #primary_nav_wrap ul a
 {
 	display:block;
-	color:#333;
+	color:#eee;
+	background-color: #2E2525;
 	text-decoration:none;
 	font-weight:700;
 	font-size:12px;
@@ -74,3 +75,4 @@
 {
 	display:block
 }
+
